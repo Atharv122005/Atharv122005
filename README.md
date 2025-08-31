@@ -37,10 +37,6 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Atharv122005/Atharv122005/output/dist/github-contribution-grid-snake.gif)
-
 
 ---
 
@@ -55,3 +51,10 @@
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Atharv122005/Atharv122005/output/dist/github-contribution-grid-snake.gif)
+
+
