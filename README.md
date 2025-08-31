@@ -1,56 +1,142 @@
-<!--- Github Profile README by Atharv122005 --->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F8982E&multiline=true&width=435&height=80&lines=Hi+there+👋;+Welcome+to+my+GitHub+profile!" alt="Welcome!" />
-</p>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="ahi atharv typing animation">
+  <defs>
+    <!-- Colorful gradient for the text -->
+    <linearGradient id="grad" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="40%" stop-color="#ffd166"/>
+      <stop offset="70%" stop-color="#6a4c93"/>
+      <stop offset="100%" stop-color="#1dd3b0"/>
+    </linearGradient>
 
-<img src="https://media.giphy.com/media/DUzMFC0U5UmjU/giphy.gif" width="100%" height="180"/>
+    <!-- Soft glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
----
+  <rect width="100%" height="100%" rx="14" fill="#0f172a"/> <!-- dark background -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+  <g transform="translate(40,140)">
+    <!-- common text style -->
+    <style>
+      .letter { font-family: 'Poppins', 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 84px; fill: url(#grad); filter: url(#glow); }
+      .shadow { fill: rgba(0,0,0,0.35); font-weight:800; font-size:84px; }
+    </style>
 
----
+    <!-- We'll render each letter in its own group so we can animate them separately.
+         Adjust the 'begin' times to slow/speed the typing. -->
 
-## 🎨 About Me
-- 🔭 I’m currently working on: <b>Something awesome!</b>
-- 🌱 Learning: <b>Advanced JS, Rust, AI stuff</b>
-- 👯 Ready to collaborate on: <b>Creative web, ML & open source!</b>
-- 🤔 Need help with: <b>Cool ideas & synergy</b>
-- 💬 Ask me about: <b>Anything tech, meme life, creative hacks</b>
-- 😄 Pronouns: <b>he/him</b>
-- ⚡ Fun fact: <b>I can code and draw at the same time 😅</b>
+    <!-- letter 1: a -->
+    <g transform="translate(0,0)" >
+      <text class="shadow" x="6" y="6">a</text>
+      <text class="letter" x="0" y="0">a
+        <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="0s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
----
+    <!-- letter 2: h -->
+    <g transform="translate(70,0)">
+      <text class="shadow" x="6" y="6">h</text>
+      <text class="letter" x="0" y="0">h
+        <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="0.55s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
-## 🚀 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv122005&show_icons=true&hide_border=true&bg_color=F6E02C,E860FA&title_color=3C3C3C&icon_color=ff9d00" alt="My Stats">
-</p>
+    <!-- letter 3: i -->
+    <g transform="translate(140,0)">
+      <text class="shadow" x="6" y="6">i</text>
+      <text class="letter" x="0" y="0">i
+        <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="1.1s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
----
+    <!-- small gap -->
+    <!-- letter 4: (space, so we just reserve x) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv122005&layout=compact&bg_color=F6E02C,E860FA)
+    <!-- letter 5: a (second word) -->
+    <g transform="translate(240,0)">
+      <text class="shadow" x="6" y="6">a</text>
+      <text class="letter" x="0" y="0">a
+        <animate attributeName="opacity" from="0" to="1" begin="1.85s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="1.85s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
----
+    <!-- letter 6: t -->
+    <g transform="translate(310,0)">
+      <text class="shadow" x="6" y="6">t</text>
+      <text class="letter" x="0" y="0">t
+        <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="2.4s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-ff6ec7.svg?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2.svg?style=flat-square&logo=twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+    <!-- letter 7: h -->
+    <g transform="translate(380,0)">
+      <text class="shadow" x="6" y="6">h</text>
+      <text class="letter" x="0" y="0">h
+        <animate attributeName="opacity" from="0" to="1" begin="2.95s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="2.95s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
----
+    <!-- letter 8: a -->
+    <g transform="translate(450,0)">
+      <text class="shadow" x="6" y="6">a</text>
+      <text class="letter" x="0" y="0">a
+        <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="3.5s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
-<!-- Dynamic Visitor Counter -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Atharv122005.Atharv122005" alt="visitors"/>
-</p>
+    <!-- letter 9: r -->
+    <g transform="translate(520,0)">
+      <text class="shadow" x="6" y="6">r</text>
+      <text class="letter" x="0" y="0">r
+        <animate attributeName="opacity" from="0" to="1" begin="4.05s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="4.05s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
 
----
+    <!-- letter 10: v -->
+    <g transform="translate(590,0)">
+      <text class="shadow" x="6" y="6">v</text>
+      <text class="letter" x="0" y="0">v
+        <animate attributeName="opacity" from="0" to="1" begin="4.6s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" attributeType="XML"
+                          type="scale" values="0.6;1.12;1" keyTimes="0;0.6;1"
+                          begin="4.6s" dur="0.45s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- optional caption below -->
+  <text x="50" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#9aa4bf">
+    slow-motion typing animation — "ahi atharv"
+  </text>
+</svg>
