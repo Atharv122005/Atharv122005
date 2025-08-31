@@ -36,8 +36,11 @@
 
 ---
 
+
 ## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Atharv122005/Atharv122005/output/snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/Atharv122005/Atharv122005/output/dist/github-contribution-grid-snake.gif)
+
 
 ---
 
