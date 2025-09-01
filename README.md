@@ -38,7 +38,7 @@
 
 ## 💌 Connect with Me
 <p align="center">
-  <a href="mailto:atharvyuvrajpatil2@gmail.com">
+  <a href="mailto:atharvypl2@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
   <a href="https://www.linkedin.com/in/" target="_blank">
