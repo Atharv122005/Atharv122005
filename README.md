@@ -1,8 +1,6 @@
 # Hi, I'm Atharv! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=FF6B6B&width=700&lines=👨‍💻+Engineer+%7C+AI+%26+Cyber+Curious;🚀+Building+Cool+Projects;🌱+Always+Learning+Something+New" />
-</p>
+<
 
 ---
 
