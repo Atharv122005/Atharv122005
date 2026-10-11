@@ -28,7 +28,6 @@ I'm looking for full-time and internship roles as a Full Stack / Backend Develop
 
 - Building and improving SigmaGPT and Meetly
 - Practicing DSA on LeetCode
-- Learning <TypeScript / Next.js / System Design>
 
 ## Contact
 
